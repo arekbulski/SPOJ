@@ -1,4 +1,6 @@
+*.zip
 *.py
 *.in
 *.out
-
+input
+output
